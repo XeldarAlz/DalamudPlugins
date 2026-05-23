@@ -1,129 +1,131 @@
 [
+  [
     {
-        "Author": "XeldarAlz",
-        "Name": "PVP Auto LB",
-        "InternalName": "PvpAutoLb",
-        "AssemblyVersion": "1.0.5.0",
-        "TestingAssemblyVersion": "1.0.5.0",
-        "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
-        "Punchline": "Auto-fires your PvP Limit Break at low-HP enemies.",
-        "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "pvp",
-            "limit break",
-            "combat",
-            "automation"
-        ],
-        "CategoryTags": [
-            "pvp"
-        ],
-        "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-PvPAutoLB/master/PvpAutoLb/Images/IconDalamud.png",
-        "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB/releases/latest/download/latest.zip",
-        "IsTestingExclusive": false,
-        "AcceptsFeedback": true,
-        "DownloadCount": 97,
-        "LastUpdate": "1779543449"
+      "Author": "XeldarAlz",
+      "Name": "PVP Auto LB",
+      "InternalName": "PvpAutoLb",
+      "AssemblyVersion": "1.0.5.0",
+      "TestingAssemblyVersion": "1.0.5.0",
+      "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
+      "Punchline": "Auto-fires your PvP Limit Break at low-HP enemies.",
+      "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "pvp",
+        "limit break",
+        "combat",
+        "automation"
+      ],
+      "CategoryTags": [
+        "pvp"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-PvPAutoLB/master/PvpAutoLb/Images/IconDalamud.png",
+      "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB/releases/latest/download/latest.zip",
+      "IsTestingExclusive": false,
+      "AcceptsFeedback": true,
+      "DownloadCount": 97,
+      "LastUpdate": "1779543449"
     },
     {
-        "Author": "XeldarAlz",
-        "Name": "Doman Mahjong Solver",
-        "InternalName": "Mahjong.Plugin.Dalamud",
-        "AssemblyVersion": "0.1.1.0",
-        "TestingAssemblyVersion": "0.1.1.0",
-        "IsTestingExclusive": false,
-        "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 15,
-        "TestingDalamudApiLevel": 15,
-        "MinimumDalamudVersion": null,
-        "Tags": [
-            "mahjong",
-            "doman",
-            "gold-saucer",
-            "ai",
-            "automation"
-        ],
-        "CategoryTags": [
-            "Utility"
-        ],
-        "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/images/icon.png",
-        "Punchline": "Doman Mahjong helper — hints or auto-play.",
-        "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
-        "Changelog": "v0.1.1.0 — Drop the experimental ISMCTS policy tier; the heuristic policy is now the only one shipped. No effect for anyone running the default Standard strength — that was already the heuristic. The Stronger (slower to think) option in the plugin settings is gone, along with the matching `/mjauto policy` chat command. Old configs that still carry `PolicyTier=mcts` are silently dropped on load. Under the hood: removed the entire Mahjong.Policy/Mcts/ tree (Determinizer / IsmctsPolicy / MctsNode / MctsNodePool / MctsSearch / MonteCarloEvaluator / Rollout) and the matching IRolloutPolicy / INodePool / RolloutWeights abstractions, ~1.3k LOC plus four test files. WeightBundle schema bumped 1 → 2 to drop the Rollout sub-bundle. Cleaner DI graph, ~25% smaller policy assembly, no behavioral change for live play.",
-        "DownloadCount": 823,
-        "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "ImageUrls": [],
-        "AcceptsFeedback": true,
-        "LastUpdate": "1779574281"
+      "Author": "XeldarAlz",
+      "Name": "Doman Mahjong Solver",
+      "InternalName": "Mahjong.Plugin.Dalamud",
+      "AssemblyVersion": "0.1.1.0",
+      "TestingAssemblyVersion": "0.1.1.0",
+      "IsTestingExclusive": false,
+      "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "MinimumDalamudVersion": null,
+      "Tags": [
+        "mahjong",
+        "doman",
+        "gold-saucer",
+        "ai",
+        "automation"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/images/icon.png",
+      "Punchline": "Doman Mahjong helper — hints or auto-play.",
+      "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
+      "Changelog": "v0.1.1.0 — Drop the experimental ISMCTS policy tier; the heuristic policy is now the only one shipped. No effect for anyone running the default Standard strength — that was already the heuristic. The Stronger (slower to think) option in the plugin settings is gone, along with the matching `/mjauto policy` chat command. Old configs that still carry `PolicyTier=mcts` are silently dropped on load. Under the hood: removed the entire Mahjong.Policy/Mcts/ tree (Determinizer / IsmctsPolicy / MctsNode / MctsNodePool / MctsSearch / MonteCarloEvaluator / Rollout) and the matching IRolloutPolicy / INodePool / RolloutWeights abstractions, ~1.3k LOC plus four test files. WeightBundle schema bumped 1 → 2 to drop the Rollout sub-bundle. Cleaner DI graph, ~25% smaller policy assembly, no behavioral change for live play.",
+      "DownloadCount": 823,
+      "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "ImageUrls": [],
+      "AcceptsFeedback": true,
+      "LastUpdate": "1779574281"
     },
     {
-        "Author": "XeldarAlz",
-        "Name": "Auto Daily Tribes",
-        "InternalName": "AutoDailyTribes",
-        "AssemblyVersion": "1.0.0.0",
-        "TestingAssemblyVersion": "1.0.0.0",
-        "Description": "Auto runs all daily tribe quests for you.",
-        "Punchline": "Daily allied tribe quests, hands-off.",
-        "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "beast tribes",
-            "allied tribes",
-            "daily quests",
-            "automation"
-        ],
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
-        "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
-        "IsTestingExclusive": false,
-        "AcceptsFeedback": true,
-        "DownloadCount": 0,
-        "LastUpdate": "1779576577"
+      "Author": "XeldarAlz",
+      "Name": "Auto Daily Tribes",
+      "InternalName": "AutoDailyTribes",
+      "AssemblyVersion": "1.0.0.0",
+      "TestingAssemblyVersion": "1.0.0.0",
+      "Description": "Auto runs all daily tribe quests for you.",
+      "Punchline": "Daily allied tribe quests, hands-off.",
+      "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "beast tribes",
+        "allied tribes",
+        "daily quests",
+        "automation"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
+      "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
+      "IsTestingExclusive": false,
+      "AcceptsFeedback": true,
+      "DownloadCount": 0,
+      "LastUpdate": "1779578224"
     },
     {
-        "Author": "XeldarAlz",
-        "Name": "AutoDeepDungeon",
-        "InternalName": "AutoDeepDungeon",
-        "AssemblyVersion": "0.0.0.1",
-        "TestingAssemblyVersion": "0.0.0.1",
-        "Description": "Automates solo Deep Dungeon runs (Palace of the Dead, Heaven-on-High, Eureka Orthos). Queues, navigates, fights, handles pomanders and bosses. /adg to start. Requires vnavmesh; RotationSolver or WrathCombo; BossMod and PalacePal strongly recommended.",
-        "Punchline": "Solo-autopilots Deep Dungeon runs.",
-        "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "deep dungeon",
-            "palace of the dead",
-            "heaven-on-high",
-            "eureka orthos",
-            "automation"
-        ],
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 15,
-        "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
-        "IsTestingExclusive": false,
-        "AcceptsFeedback": false,
-        "DownloadCount": 0,
-        "LastUpdate": "0",
-        "LoadPriority": 0
+      "Author": "XeldarAlz",
+      "Name": "AutoDeepDungeon",
+      "InternalName": "AutoDeepDungeon",
+      "AssemblyVersion": "0.0.0.1",
+      "TestingAssemblyVersion": "0.0.0.1",
+      "Description": "Automates solo Deep Dungeon runs (Palace of the Dead, Heaven-on-High, Eureka Orthos). Queues, navigates, fights, handles pomanders and bosses. /adg to start. Requires vnavmesh; RotationSolver or WrathCombo; BossMod and PalacePal strongly recommended.",
+      "Punchline": "Solo-autopilots Deep Dungeon runs.",
+      "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "deep dungeon",
+        "palace of the dead",
+        "heaven-on-high",
+        "eureka orthos",
+        "automation"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "",
+      "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
+      "IsTestingExclusive": false,
+      "AcceptsFeedback": false,
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "LoadPriority": 0
     }
+  ]
 ]
