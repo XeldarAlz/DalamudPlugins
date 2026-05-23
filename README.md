@@ -22,6 +22,7 @@ Each plugin auto-updates from its own source repository when a new release is pu
 |---|---|---|
 | **PVP Auto LB** | Auto-fires your PvP Limit Break at low-HP enemies. | [FFXIV-PvPAutoLB](https://github.com/XeldarAlz/FFXIV-PvPAutoLB) |
 | **Doman Mahjong Solver** | Doman Mahjong helper — hints or auto-play. | [FFXIV-DomanMahjongSolver](https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver) |
+| **Auto Daily Tribes** | Daily allied tribe quests, hands-off. | [FFXIV-AutoDailyTribes](https://github.com/XeldarAlz/FFXIV-AutoDailyTribes) |
 
 ## How updates land here
 
