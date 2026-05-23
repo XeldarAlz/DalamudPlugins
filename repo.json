@@ -94,5 +94,35 @@
         "AcceptsFeedback": true,
         "DownloadCount": 0,
         "LastUpdate": "1779576577"
+    },
+    {
+        "Author": "XeldarAlz",
+        "Name": "AutoDeepDungeon",
+        "InternalName": "AutoDeepDungeon",
+        "AssemblyVersion": "0.0.0.1",
+        "TestingAssemblyVersion": "0.0.0.1",
+        "Description": "Automates solo Deep Dungeon runs (Palace of the Dead, Heaven-on-High, Eureka Orthos). Queues, navigates, fights, handles pomanders and bosses. /adg to start. Requires vnavmesh; RotationSolver or WrathCombo; BossMod and PalacePal strongly recommended.",
+        "Punchline": "Solo-autopilots Deep Dungeon runs.",
+        "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "deep dungeon",
+            "palace of the dead",
+            "heaven-on-high",
+            "eureka orthos",
+            "automation"
+        ],
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDeepDungeon/releases/latest/download/latest.zip",
+        "IsTestingExclusive": false,
+        "AcceptsFeedback": false,
+        "DownloadCount": 0,
+        "LastUpdate": "0"
     }
 ]
