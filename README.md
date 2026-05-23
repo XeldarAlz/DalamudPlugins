@@ -7,7 +7,7 @@ Custom Dalamud plugin repository for plugins authored by [@XeldarAlz](https://gi
 Add this URL to Dalamud:
 
 ```
-https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/master/repo.json
+https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json
 ```
 
 1. In-game, run `/xlsettings` → **Experimental**.
