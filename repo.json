@@ -123,6 +123,7 @@
         "IsTestingExclusive": false,
         "AcceptsFeedback": false,
         "DownloadCount": 0,
-        "LastUpdate": "0"
+        "LastUpdate": "0",
+        "LoadPriority": 0
     }
 ]
