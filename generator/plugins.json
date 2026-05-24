@@ -2,7 +2,7 @@
   "plugins": [
     {
       "owner": "XeldarAlz",
-      "repo": "FFXIV-PvPAutoLB",
+      "repo": "FFXIV-AutoPVPLimitBreak",
       "branch": "master",
       "internalName": "PvpAutoLb"
     },

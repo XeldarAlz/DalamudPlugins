@@ -29,8 +29,14 @@ async function fetchJson(url, headers) {
 }
 
 async function fetchPluginEntry({ owner, repo, branch, internalName }) {
-  const url = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/repo.json`;
-  const data = await fetchJson(url, ghHeaders());
+  // Contents API instead of raw.githubusercontent.com — the raw CDN serves
+  // stale content for several minutes after a push and ignores query-string
+  // cache busters. Contents API is always current and supports auth (so this
+  // also works for private plugin repos when the token has read access).
+  const url = `https://api.github.com/repos/${owner}/${repo}/contents/repo.json?ref=${branch}`;
+  const meta = await fetchJson(url, ghHeaders());
+  const decoded = Buffer.from(meta.content, meta.encoding || 'base64').toString('utf8');
+  const data = JSON.parse(decoded);
   if (!Array.isArray(data) || data.length === 0) {
     throw new Error(`${owner}/${repo}@${branch}/repo.json is not a non-empty array`);
   }
