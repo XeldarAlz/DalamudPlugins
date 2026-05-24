@@ -24,15 +24,6 @@ Each plugin auto-updates from its own source repository when a new release is pu
 | **Auto Daily Tribes** | Daily allied tribe quests, hands-off. | [FFXIV-AutoDailyTribes](https://github.com/XeldarAlz/FFXIV-AutoDailyTribes) |
 | **Auto Doman Mahjong** | Doman Mahjong helper — hints or auto-play. | [FFXIV-AutoDomanMahjong](https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver) |
 
-## How updates land here
-
-Each plugin's source repo has its own release workflow. When a new version is tagged, the workflow:
-
-1. Builds the plugin and creates a GitHub Release with `latest.zip` attached
-2. Uses a Personal Access Token to update this repository's `repo.json` — bumping the relevant entry's `AssemblyVersion`, `TestingAssemblyVersion`, `DownloadCount`, and `LastUpdate`
-
-Dalamud clients then pick up the new version on their next refresh.
-
 ## License
 
 AGPL-3.0-or-later. Individual plugins are licensed under their own source repositories.
