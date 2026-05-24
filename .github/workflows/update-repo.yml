@@ -1,0 +1,63 @@
+# Regenerates repo.json from each plugin's source repo:
+#   - fetches the plugin's own repo.json for metadata (version, changelog, etc.)
+#   - sums GitHub Releases asset download_counts for DownloadCount
+# Runs daily, on manual dispatch, and on repository_dispatch (plugin-released)
+# fired by each plugin's release workflow.
+
+name: Update Repository
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [plugin-released]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-update
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node generator/index.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add repo.json
+          if git diff --cached --quiet; then
+            echo "repo.json unchanged."
+            exit 0
+          fi
+          msg="Update repo.json"
+          if [ -n "${{ github.event.client_payload.plugin }}" ]; then
+            msg="$msg (triggered by ${{ github.event.client_payload.plugin }})"
+          fi
+          git commit -m "$msg"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin main && exit 0
+            echo "Push attempt $i failed; retrying..."
+            sleep 2
+          done
+          echo "Failed to push after 5 attempts."
+          exit 1

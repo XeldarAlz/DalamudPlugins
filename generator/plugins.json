@@ -1,0 +1,28 @@
+{
+  "plugins": [
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-PvPAutoLB",
+      "branch": "master",
+      "internalName": "PvpAutoLb"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-DomanMahjongSolver",
+      "branch": "main",
+      "internalName": "Mahjong.Plugin.Dalamud"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoDailyTribes",
+      "branch": "master",
+      "internalName": "AutoDailyTribes"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoDeepDungeon",
+      "branch": "master",
+      "internalName": "AutoDeepDungeon"
+    }
+  ]
+}
