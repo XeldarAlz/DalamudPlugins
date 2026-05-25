@@ -35,9 +35,9 @@ Tick **Enabled**, click **+**, then **Save and Close**. Open `/xlplugins` → **
 
 | Plugin | Description | Source |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/master/PvpAutoLb/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP LB** | Auto-fires your PvP Limit Break at low-HP enemies. | [FFXIV-AutoPVPLimitBreak](https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak) |
-| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Daily Tribes** | Daily allied tribe quests, hands-off. | [FFXIV-AutoDailyTribes](https://github.com/XeldarAlz/FFXIV-AutoDailyTribes) |
-| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Doman Mahjong** | Hints or full auto-play for Doman Mahjong at the Gold Saucer. | [FFXIV-AutoDomanMahjong](https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/master/PvpAutoLb/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP LB** | Your PvP Limit Break, fired for you. | [FFXIV-AutoPVPLimitBreak](https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Daily Tribes** | Daily allied tribe quests, done for you. | [FFXIV-AutoDailyTribes](https://github.com/XeldarAlz/FFXIV-AutoDailyTribes) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Doman Mahjong** | Doman Mahjong, solved for you. | [FFXIV-AutoDomanMahjong](https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver) |
 
 ## License
 
