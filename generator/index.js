@@ -6,6 +6,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const PLUGINS_FILE = join(__dirname, 'plugins.json');
 const OUTPUT_FILE = join(ROOT, 'repo.json');
+const DOWNLOADS_BADGE_FILE = join(ROOT, 'downloads.json');
 
 const GH_TOKEN = process.env.GITHUB_TOKEN || '';
 
@@ -65,9 +66,28 @@ async function fetchDownloadCount({ owner, repo }) {
   return total;
 }
 
+function formatCompact(n) {
+  if (n < 1000) return String(n);
+  if (n < 1_000_000) {
+    const v = n / 1000;
+    return (v >= 100 ? v.toFixed(0) : v.toFixed(1).replace(/\.0$/, '')) + 'k';
+  }
+  const v = n / 1_000_000;
+  return (v >= 100 ? v.toFixed(0) : v.toFixed(1).replace(/\.0$/, '')) + 'M';
+}
+
+async function writeIfChanged(path, next) {
+  let prev = '';
+  try { prev = await readFile(path, 'utf8'); } catch {}
+  if (prev === next) return false;
+  await writeFile(path, next);
+  return true;
+}
+
 async function main() {
   const { plugins } = JSON.parse(await readFile(PLUGINS_FILE, 'utf8'));
   const output = [];
+  let totalDownloads = 0;
   for (const p of plugins) {
     process.stdout.write(`[${p.owner}/${p.repo}] fetching... `);
     const [entry, count] = await Promise.all([
@@ -75,19 +95,30 @@ async function main() {
       fetchDownloadCount(p),
     ]);
     entry.DownloadCount = count;
+    totalDownloads += count;
     output.push(entry);
     process.stdout.write(`v${entry.AssemblyVersion}, DL=${count}\n`);
   }
 
-  const next = JSON.stringify(output, null, 2) + '\n';
-  let prev = '';
-  try { prev = await readFile(OUTPUT_FILE, 'utf8'); } catch {}
-  if (prev === next) {
+  const repoJson = JSON.stringify(output, null, 2) + '\n';
+  if (await writeIfChanged(OUTPUT_FILE, repoJson)) {
+    console.log(`repo.json written (${output.length} plugins).`);
+  } else {
     console.log('repo.json unchanged.');
-    return;
   }
-  await writeFile(OUTPUT_FILE, next);
-  console.log(`repo.json written (${output.length} plugins).`);
+
+  const badge = {
+    schemaVersion: 1,
+    label: 'downloads',
+    message: formatCompact(totalDownloads),
+    color: 'blue',
+  };
+  const badgeJson = JSON.stringify(badge, null, 2) + '\n';
+  if (await writeIfChanged(DOWNLOADS_BADGE_FILE, badgeJson)) {
+    console.log(`downloads.json written (total=${totalDownloads}).`);
+  } else {
+    console.log('downloads.json unchanged.');
+  }
 }
 
 main().catch(err => {

@@ -5,7 +5,7 @@
 <h1 align="center">XeldarAlz Dalamud Plugins</h1>
 
 <p align="center">
-  <a href="https://github.com/XeldarAlz/DalamudPlugins/actions/workflows/update-repo.yml"><img alt="repo.json status" src="https://img.shields.io/github/actions/workflow/status/XeldarAlz/DalamudPlugins/update-repo.yml?style=flat-square&label=repo.json"></a>
+  <img alt="Downloads" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXeldarAlz%2FDalamudPlugins%2Fmain%2Fdownloads.json&style=flat-square">
   <img alt="Plugins" src="https://img.shields.io/badge/plugins-3-blue?style=flat-square">
   <a href="https://github.com/XeldarAlz/DalamudPlugins/commits/main"><img alt="Last update" src="https://img.shields.io/github/last-commit/XeldarAlz/DalamudPlugins/main?style=flat-square&color=blue&label=last%20update"></a>
   <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-AGPL--3.0--or--later-blue?style=flat-square"></a>

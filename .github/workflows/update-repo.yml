@@ -44,9 +44,9 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add repo.json
+          git add repo.json downloads.json
           if git diff --cached --quiet; then
-            echo "repo.json unchanged."
+            echo "No changes to commit."
             exit 0
           fi
           msg="Update repo.json"
