@@ -54,7 +54,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.1: DiscardWeights re-tuned on the post-furiten, kabe/no-chance/tedashi-aware simulator under DomanRuleSet. The policy pursues hand value harder and folds isolated terminals more aggressively: Dora and Yakuhai weights jump roughly 7x and 8x, IsolatedTerminal 15x, DealInCost roughly 3x, with small shrinks to UkeireKinds and UkeireWeighted. Verification across three 1000-hand seeds shows +3, +82, +315 pts/hand vs the previous defaults (avg +133), consistent with selective push/fold and value pursuit.",
-    "DownloadCount": 936,
+    "DownloadCount": 948,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -70,8 +70,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Daily Tribes",
     "InternalName": "AutoDailyTribes",
-    "AssemblyVersion": "1.0.0.2",
-    "TestingAssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
+    "TestingAssemblyVersion": "1.0.0.3",
     "Description": "Does your daily allied tribe quests for you: tick the tribes, the plugin handles the rest.",
     "Punchline": "Daily allied tribe quests, done for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
@@ -92,7 +92,36 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 76,
-    "LastUpdate": "1779723602"
+    "DownloadCount": 77,
+    "LastUpdate": "1779810541"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Auto Fate Grind",
+    "InternalName": "AutoFateGrind",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
+    "Punchline": "Shared FATEs, farmed for you.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "FATE",
+      "Shared FATE",
+      "Bicolor Gemstones",
+      "Date with Destiny",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0
   }
 ]
