@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="Downloads" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXeldarAlz%2FDalamudPlugins%2Fmain%2Fdownloads.json&style=flat-square">
-  <img alt="Plugins" src="https://img.shields.io/badge/plugins-3-blue?style=flat-square">
+  <img alt="Plugins" src="https://img.shields.io/badge/plugins-4-blue?style=flat-square">
   <a href="https://github.com/XeldarAlz/DalamudPlugins/commits/main"><img alt="Last update" src="https://img.shields.io/github/last-commit/XeldarAlz/DalamudPlugins/main?style=flat-square&color=blue&label=last%20update"></a>
   <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-AGPL--3.0--or--later-blue?style=flat-square"></a>
 </p>
@@ -38,6 +38,7 @@ Tick **Enabled**, click **+**, then **Save and Close**. Open `/xlplugins` → **
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/master/PvpAutoLb/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP LB** | Your PvP Limit Break, fired for you. | [FFXIV-AutoPVPLimitBreak](https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Daily Tribes** | Daily allied tribe quests, done for you. | [FFXIV-AutoDailyTribes](https://github.com/XeldarAlz/FFXIV-AutoDailyTribes) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Doman Mahjong** | Doman Mahjong, solved for you. | [FFXIV-AutoDomanMahjong](https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFateGrind/master/AutoFateGrind/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Fate Grind** | Shared FATE farming, automated. | [FFXIV-AutoFateGrind](https://github.com/XeldarAlz/FFXIV-AutoFateGrind) |
 
 ## License
 

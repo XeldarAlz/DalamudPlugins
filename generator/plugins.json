@@ -17,6 +17,12 @@
       "repo": "FFXIV-AutoDailyTribes",
       "branch": "master",
       "internalName": "AutoDailyTribes"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoFateGrind",
+      "branch": "master",
+      "internalName": "AutoFateGrind"
     }
   ]
 }
