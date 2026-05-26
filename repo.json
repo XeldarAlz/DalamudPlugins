@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 161,
+    "DownloadCount": 162,
     "LastUpdate": "1779711705"
   },
   {
@@ -54,7 +54,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.1: DiscardWeights re-tuned on the post-furiten, kabe/no-chance/tedashi-aware simulator under DomanRuleSet. The policy pursues hand value harder and folds isolated terminals more aggressively: Dora and Yakuhai weights jump roughly 7x and 8x, IsolatedTerminal 15x, DealInCost roughly 3x, with small shrinks to UkeireKinds and UkeireWeighted. Verification across three 1000-hand seeds shows +3, +82, +315 pts/hand vs the previous defaults (avg +133), consistent with selective push/fold and value pursuit.",
-    "DownloadCount": 948,
+    "DownloadCount": 958,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -70,8 +70,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Daily Tribes",
     "InternalName": "AutoDailyTribes",
-    "AssemblyVersion": "1.0.0.3",
-    "TestingAssemblyVersion": "1.0.0.3",
+    "AssemblyVersion": "1.0.0.4",
+    "TestingAssemblyVersion": "1.0.0.4",
     "Description": "Does your daily allied tribe quests for you: tick the tribes, the plugin handles the rest.",
     "Punchline": "Daily allied tribe quests, done for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
@@ -92,8 +92,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 77,
-    "LastUpdate": "1779810541"
+    "DownloadCount": 89,
+    "LastUpdate": "1779819505"
   },
   {
     "Author": "XeldarAlz",
