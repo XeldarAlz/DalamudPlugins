@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 176,
+    "DownloadCount": 177,
     "LastUpdate": "1779835643"
   },
   {
@@ -54,7 +54,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.2: Fix EmjL (NA/EU) tile reading. The EmjL tileTextureBase was off by 2 (76003 instead of 76001), so on NA/EU every tile decoded two ranks too low and 1m/2m tiles were dropped entirely, producing wrong discard suggestions, missing highlights, and tracker desync after a round or two. JP (Emj) was unaffected. The decoder now self-calibrates: if a client patch shifts tile texture IDs again, it detects the dropped tiles, recovers the correct base automatically (both reading and click targeting), and logs a warning instead of silently mis-reading every tile. Added regression tests that decode real captured NA/EU hands through the layout profile so a wrong per-variant base is caught in CI.",
-    "DownloadCount": 981,
+    "DownloadCount": 987,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -92,15 +92,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 125,
+    "DownloadCount": 126,
     "LastUpdate": "1779819505"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto FATE Grind",
     "InternalName": "AutoFateGrind",
-    "AssemblyVersion": "1.0.0.2",
-    "TestingAssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
+    "TestingAssemblyVersion": "1.0.0.3",
     "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
     "Punchline": "Shared FATEs, farmed for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
@@ -123,6 +123,6 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 18,
-    "LastUpdate": "1779835892"
+    "LastUpdate": "1779879067"
   }
 ]
