@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 166,
+    "DownloadCount": 174,
     "LastUpdate": "1779835643"
   },
   {
@@ -54,7 +54,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.1: DiscardWeights re-tuned on the post-furiten, kabe/no-chance/tedashi-aware simulator under DomanRuleSet. The policy pursues hand value harder and folds isolated terminals more aggressively: Dora and Yakuhai weights jump roughly 7x and 8x, IsolatedTerminal 15x, DealInCost roughly 3x, with small shrinks to UkeireKinds and UkeireWeighted. Verification across three 1000-hand seeds shows +3, +82, +315 pts/hand vs the previous defaults (avg +133), consistent with selective push/fold and value pursuit.",
-    "DownloadCount": 964,
+    "DownloadCount": 981,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 109,
+    "DownloadCount": 123,
     "LastUpdate": "1779819505"
   },
   {
@@ -122,7 +122,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 12,
+    "DownloadCount": 18,
     "LastUpdate": "1779835892"
   }
 ]
