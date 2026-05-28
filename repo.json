@@ -99,8 +99,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto FATE Grind",
     "InternalName": "AutoFateGrind",
-    "AssemblyVersion": "1.0.0.8",
-    "TestingAssemblyVersion": "1.0.0.8",
+    "AssemblyVersion": "1.0.0.9",
+    "TestingAssemblyVersion": "1.0.0.9",
     "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
     "Punchline": "Shared FATEs, farmed for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
@@ -123,6 +123,6 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 52,
-    "LastUpdate": "1779963795"
+    "LastUpdate": "1779964378"
   }
 ]
