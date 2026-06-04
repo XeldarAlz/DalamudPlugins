@@ -3,8 +3,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto PVP LB",
     "InternalName": "PvpAutoLb",
-    "AssemblyVersion": "1.0.5.2",
-    "TestingAssemblyVersion": "1.0.5.2",
+    "AssemblyVersion": "1.0.5.3",
+    "TestingAssemblyVersion": "1.0.5.3",
     "Description": "Fires your PvP Limit Break for you when an enemy's HP drops below a configurable threshold.",
     "Punchline": "Your PvP Limit Break, fired for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
@@ -26,7 +26,7 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 221,
-    "LastUpdate": "1779835643"
+    "LastUpdate": "1780597596"
   },
   {
     "Author": "XeldarAlz",
@@ -54,7 +54,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.3: Fix the in-game suggestion highlight after a call. Once you called pon, chi, or kan, the highlight could jump to the wall along the top of the board or land on the wrong tile, because it located your hand by geometry and the shrunken hand let the perfectly-aligned wall slots win. It now anchors to the bottom-most row (your hand is always at the bottom) and ignores melded tiles, so the outline stays on the suggested discard. The hand reading and suggestion were always correct; only the on-tile outline was affected.",
-    "DownloadCount": 1197,
+    "DownloadCount": 1198,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 392,
+    "DownloadCount": 396,
     "LastUpdate": "1780508921"
   },
   {
@@ -122,7 +122,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 293,
+    "DownloadCount": 296,
     "LastUpdate": "1780510346"
   }
 ]
