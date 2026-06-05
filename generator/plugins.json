@@ -23,6 +23,12 @@
       "repo": "FFXIV-AutoFATEGrind",
       "branch": "master",
       "internalName": "AutoFateGrind"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoPVPSeriesGrind",
+      "branch": "master",
+      "internalName": "AutoPvpSeriesGrind"
     }
   ]
 }
