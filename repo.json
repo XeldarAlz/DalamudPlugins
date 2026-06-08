@@ -92,15 +92,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 440,
+    "DownloadCount": 441,
     "LastUpdate": "1780508921"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto FATE Grind",
     "InternalName": "AutoFateGrind",
-    "AssemblyVersion": "1.2.1.0",
-    "TestingAssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.1.1",
+    "TestingAssemblyVersion": "1.2.1.1",
     "Description": "Farms FATEs for you: tick the zones, and the plugin teleports in, finds active FATEs, and runs them in a loop until your target is met.",
     "Punchline": "FATEs, farmed for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
@@ -123,7 +123,7 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 345,
-    "LastUpdate": "1780938375"
+    "LastUpdate": "1780948489"
   },
   {
     "Author": "XeldarAlz",
