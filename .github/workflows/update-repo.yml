@@ -1,14 +1,14 @@
 # Regenerates repo.json from each plugin's source repo:
 #   - fetches the plugin's own repo.json for metadata (version, changelog, etc.)
 #   - sums GitHub Releases asset download_counts for DownloadCount
-# Runs daily, on manual dispatch, and on repository_dispatch (plugin-released)
+# Runs hourly, on manual dispatch, and on repository_dispatch (plugin-released)
 # fired by each plugin's release workflow.
 
 name: Update Repository
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [plugin-released]
