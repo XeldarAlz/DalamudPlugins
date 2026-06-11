@@ -129,8 +129,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto PVP Series Grind",
     "InternalName": "AutoPvpSeriesGrind",
-    "AssemblyVersion": "1.1.0.0",
-    "TestingAssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
+    "TestingAssemblyVersion": "1.1.0.1",
     "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
     "Punchline": "PvP Series, grinded for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
@@ -153,6 +153,6 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 703,
-    "LastUpdate": "1781121062"
+    "LastUpdate": "1781204915"
   }
 ]
