@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1004,
+    "DownloadCount": 1005,
     "LastUpdate": "1781204735"
   },
   {
@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1684,
+    "DownloadCount": 1686,
     "LastUpdate": "1781287560"
   },
   {
@@ -152,7 +152,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1665,
+    "DownloadCount": 1666,
     "LastUpdate": "1781204915"
   }
 ]
