@@ -29,6 +29,12 @@
       "repo": "FFXIV-AutoPVPSeriesGrind",
       "branch": "master",
       "internalName": "AutoPvpSeriesGrind"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-Aetherphone",
+      "branch": "master",
+      "internalName": "Aetherphone"
     }
   ]
 }

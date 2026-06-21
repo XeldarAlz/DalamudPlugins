@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="Downloads" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXeldarAlz%2FDalamudPlugins%2Fmain%2Fdownloads.json&style=flat-square">
-  <img alt="Plugins" src="https://img.shields.io/badge/plugins-5-blue?style=flat-square">
+  <img alt="Plugins" src="https://img.shields.io/badge/plugins-6-blue?style=flat-square">
   <a href="https://github.com/XeldarAlz/DalamudPlugins/commits/main"><img alt="Last update" src="https://img.shields.io/github/last-commit/XeldarAlz/DalamudPlugins/main?style=flat-square&color=blue&label=last%20update"></a>
   <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-AGPL--3.0--or--later-blue?style=flat-square"></a>
 </p>
@@ -40,6 +40,7 @@ Tick **Enabled**, click **+**, then **Save and Close**. Open `/xlplugins` → **
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Mahjong Solver** | Doman Mahjong, solved for you. | [FFXIV-AutoMahjongSolver](https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto FATE Grind** | FATEs, farmed for you. | [FFXIV-AutoFATEGrind](https://github.com/XeldarAlz/FFXIV-AutoFATEGrind) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP Series Grind** | PvP Series, grinded for you. | [FFXIV-AutoPVPSeriesGrind](https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Aetherphone** | Your phone, in Eorzea. | [FFXIV-Aetherphone](https://github.com/XeldarAlz/FFXIV-Aetherphone) |
 
 ## License
 
