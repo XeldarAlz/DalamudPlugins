@@ -40,7 +40,7 @@ Tick **Enabled**, click **+**, then **Save and Close**. Open `/xlplugins` → **
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Mahjong Solver** | Doman Mahjong, solved for you. | [FFXIV-AutoMahjongSolver](https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto FATE Grind** | FATEs, farmed for you. | [FFXIV-AutoFATEGrind](https://github.com/XeldarAlz/FFXIV-AutoFATEGrind) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP Series Grind** | PvP Series, grinded for you. | [FFXIV-AutoPVPSeriesGrind](https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind) |
-| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Aetherphone** | Your phone, in Eorzea. | [FFXIV-Aetherphone](https://github.com/XeldarAlz/FFXIV-Aetherphone) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Aetherphone** | A smartphone, built for you. | [FFXIV-Aetherphone](https://github.com/XeldarAlz/FFXIV-Aetherphone) |
 
 ## License
 

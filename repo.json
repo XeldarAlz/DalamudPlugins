@@ -161,8 +161,8 @@
     "InternalName": "Aetherphone",
     "AssemblyVersion": "0.1.0.0",
     "TestingAssemblyVersion": "0.1.0.0",
-    "Description": "An in-game smartphone: a docked device with a home screen, apps, and notifications. Read and answer tells with chat bubbles, snap gpose photos, and browse a community feed — your social layer, in your pocket.",
-    "Punchline": "Your phone, in Eorzea.",
+    "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
+    "Punchline": "A smartphone, built for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
     "ApplicableVersion": "any",
     "Tags": [
