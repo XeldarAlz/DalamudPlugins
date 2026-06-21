@@ -154,5 +154,35 @@
     "AcceptsFeedback": true,
     "DownloadCount": 1710,
     "LastUpdate": "1781204915"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Aetherphone",
+    "InternalName": "Aetherphone",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "Description": "An in-game smartphone: a docked device with a home screen, apps, and notifications. Read and answer tells with chat bubbles, snap gpose photos, and browse a community feed — your social layer, in your pocket.",
+    "Punchline": "Your phone, in Eorzea.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "phone",
+      "messages",
+      "social",
+      "ui",
+      "quality of life"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1782062893"
   }
 ]
