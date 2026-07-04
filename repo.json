@@ -159,8 +159,8 @@
     "Author": "XeldarAlz",
     "Name": "Aetherphone",
     "InternalName": "Aetherphone",
-    "AssemblyVersion": "0.8.1.0",
-    "TestingAssemblyVersion": "0.8.1.0",
+    "AssemblyVersion": "0.8.2.0",
+    "TestingAssemblyVersion": "0.8.2.0",
     "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
     "Punchline": "A smartphone, built for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
@@ -186,7 +186,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 171,
-    "LastUpdate": "1783156155"
+    "DownloadCount": 172,
+    "LastUpdate": "1783178865"
   }
 ]
