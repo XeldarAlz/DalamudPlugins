@@ -54,7 +54,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.3: Fix the in-game suggestion highlight after a call. Once you called pon, chi, or kan, the highlight could jump to the wall along the top of the board or land on the wrong tile, because it located your hand by geometry and the shrunken hand let the perfectly-aligned wall slots win. It now anchors to the bottom-most row (your hand is always at the bottom) and ignores melded tiles, so the outline stays on the suggested discard. The hand reading and suggestion were always correct; only the on-tile outline was affected.",
-    "DownloadCount": 1678,
+    "DownloadCount": 1680,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1799,
+    "DownloadCount": 1800,
     "LastUpdate": "1781287560"
   },
   {
@@ -159,8 +159,8 @@
     "Author": "XeldarAlz",
     "Name": "Aetherphone",
     "InternalName": "Aetherphone",
-    "AssemblyVersion": "0.7.1.0",
-    "TestingAssemblyVersion": "0.7.1.0",
+    "AssemblyVersion": "0.8.0.0",
+    "TestingAssemblyVersion": "0.8.0.0",
     "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
     "Punchline": "A smartphone, built for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
@@ -186,7 +186,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 140,
-    "LastUpdate": "1783098573"
+    "DownloadCount": 146,
+    "LastUpdate": "1783155405"
   }
 ]
