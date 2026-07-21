@@ -122,7 +122,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 3259,
+    "DownloadCount": 3262,
     "LastUpdate": "1784065954"
   },
   {
@@ -152,15 +152,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1862,
+    "DownloadCount": 1863,
     "LastUpdate": "1781204915"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Aetherphone",
     "InternalName": "Aetherphone",
-    "AssemblyVersion": "0.9.8.8",
-    "TestingAssemblyVersion": "0.9.8.8",
+    "AssemblyVersion": "0.9.8.9",
+    "TestingAssemblyVersion": "0.9.8.9",
     "Description": "An in-game smartphone that puts everything you do into a single window: one device, endless things to do.",
     "Punchline": "A smartphone, built for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
@@ -186,7 +186,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 14235,
-    "LastUpdate": "1784670617"
+    "DownloadCount": 14658,
+    "LastUpdate": "1784676640"
   }
 ]
