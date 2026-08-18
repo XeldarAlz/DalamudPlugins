@@ -3,8 +3,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto PVP LB",
     "InternalName": "PvpAutoLb",
-    "AssemblyVersion": "1.0.6.0",
-    "TestingAssemblyVersion": "1.0.6.0",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "Description": "Fires your PvP Limit Break for you when an enemy's HP drops below a configurable threshold.",
     "Punchline": "Your PvP Limit Break, fired for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
@@ -25,8 +25,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 6516,
-    "LastUpdate": "1782674013"
+    "DownloadCount": 6517,
+    "LastUpdate": "1787083573"
   },
   {
     "Author": "XeldarAlz",
@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 7767,
+    "DownloadCount": 7819,
     "LastUpdate": "1787079507"
   },
   {
@@ -122,7 +122,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 12467,
+    "DownloadCount": 12518,
     "LastUpdate": "1787081859"
   },
   {
@@ -186,7 +186,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 142141,
+    "DownloadCount": 142519,
     "LastUpdate": "1787044426"
   }
 ]
