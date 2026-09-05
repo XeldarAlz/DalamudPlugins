@@ -122,8 +122,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 18206,
-    "LastUpdate": "1788649489"
+    "DownloadCount": 18259,
+    "LastUpdate": "1788651610"
   },
   {
     "Author": "XeldarAlz",
@@ -186,7 +186,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 252813,
+    "DownloadCount": 252820,
     "LastUpdate": "1788209776"
   }
 ]
