@@ -188,5 +188,36 @@
     "AcceptsFeedback": true,
     "DownloadCount": 300788,
     "LastUpdate": "1789305330"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Auto Hunt Grinder",
+    "InternalName": "AutoHuntGrinder",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "Clears your hunt bills for you: tick the daily and weekly bills you want, and the plugin picks them up at the hunt board, finds every mark, and fights it until each bill is done.",
+    "Punchline": "Hunt bills, cleared for you.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Hunt",
+      "Mark Bills",
+      "Elite Marks",
+      "Allied Seals",
+      "Sacks of Nuts",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1789332949"
   }
 ]
