@@ -35,6 +35,12 @@
       "repo": "FFXIV-Aetherphone",
       "branch": "master",
       "internalName": "Aetherphone"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoHuntGrinder",
+      "branch": "master",
+      "internalName": "AutoHuntGrinder"
     }
   ]
 }
