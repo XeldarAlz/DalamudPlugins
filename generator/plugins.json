@@ -41,6 +41,12 @@
       "repo": "FFXIV-AutoHuntGrinder",
       "branch": "master",
       "internalName": "AutoHuntGrinder"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoSightseeingLog",
+      "branch": "master",
+      "internalName": "AutoSightseeingLog"
     }
   ]
 }

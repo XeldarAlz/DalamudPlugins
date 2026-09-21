@@ -35,13 +35,13 @@ Tick **Enabled**, click **+**, then **Save and Close**. Open `/xlplugins` → **
 
 | Plugin | Description | Source |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/master/PvpAutoLb/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP LB** | Your PvP Limit Break, fired for you. | [FFXIV-AutoPVPLimitBreak](https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Daily Tribes** | Daily allied tribe quests, done for you. | [FFXIV-AutoDailyTribes](https://github.com/XeldarAlz/FFXIV-AutoDailyTribes) |
-| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Mahjong Solver** | Doman Mahjong, solved for you. | [FFXIV-AutoMahjongSolver](https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto FATE Grind** | FATEs, farmed for you. | [FFXIV-AutoFATEGrind](https://github.com/XeldarAlz/FFXIV-AutoFATEGrind) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Hunt Grind** | Hunt bills, cleared for you. | [FFXIV-AutoHuntGrinder](https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/master/PvpAutoLb/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP LB** | Your PvP Limit Break, fired for you. | [FFXIV-AutoPVPLimitBreak](https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP Series Grind** | PvP Series, grinded for you. | [FFXIV-AutoPVPSeriesGrind](https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind) |
+| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoSightseeingLog/master/AutoSightseeingLog/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Sightseeing Log** | Sightseeing vistas, logged for you. | [FFXIV-AutoSightseeingLog](https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Aetherphone** | A smartphone, built for you. | [FFXIV-Aetherphone](https://github.com/XeldarAlz/FFXIV-Aetherphone) |
-| <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Hunt Grinder** | Hunt bills, cleared for you. | [FFXIV-AutoHuntGrinder](https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder) |
 
 ## License
 
