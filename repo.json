@@ -129,8 +129,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto PVP Series Grind",
     "InternalName": "AutoPvpSeriesGrind",
-    "AssemblyVersion": "2.2.0.0",
-    "TestingAssemblyVersion": "2.2.0.0",
+    "AssemblyVersion": "2.3.0.0",
+    "TestingAssemblyVersion": "2.3.0.0",
     "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
     "Punchline": "PvP Series, grinded for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
@@ -152,8 +152,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 10267,
-    "LastUpdate": "1790012168"
+    "DownloadCount": 10275,
+    "LastUpdate": "1790019214"
   },
   {
     "Author": "XeldarAlz",
@@ -186,7 +186,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 345480,
+    "DownloadCount": 345487,
     "LastUpdate": "1789723744"
   },
   {
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 653,
+    "DownloadCount": 654,
     "LastUpdate": "1790018835"
   }
 ]
