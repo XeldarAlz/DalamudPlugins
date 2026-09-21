@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 17518,
+    "DownloadCount": 17628,
     "LastUpdate": "1790027039"
   },
   {
@@ -122,7 +122,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 38265,
+    "DownloadCount": 38441,
     "LastUpdate": "1790031776"
   },
   {
@@ -152,7 +152,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 10452,
+    "DownloadCount": 10483,
     "LastUpdate": "1790019214"
   },
   {
@@ -186,7 +186,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 345654,
+    "DownloadCount": 345710,
     "LastUpdate": "1789723744"
   },
   {
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 754,
+    "DownloadCount": 781,
     "LastUpdate": "1790018835"
   },
   {
@@ -248,7 +248,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 17,
+    "DownloadCount": 20,
     "LastUpdate": "1790028552"
   }
 ]
