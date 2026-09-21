@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 17259,
+    "DownloadCount": 17288,
     "LastUpdate": "1790020055"
   },
   {
@@ -152,7 +152,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 10367,
+    "DownloadCount": 10378,
     "LastUpdate": "1790019214"
   },
   {
@@ -219,5 +219,36 @@
     "AcceptsFeedback": true,
     "DownloadCount": 710,
     "LastUpdate": "1790018835"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Auto Sightseeing Log",
+    "InternalName": "AutoSightseeingLog",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
+    "Punchline": "Sightseeing vistas, logged for you.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Sightseeing",
+      "Sightseeing Log",
+      "Vistas",
+      "Exploration",
+      "Achievements",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoSightseeingLog/master/AutoSightseeingLog/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1790025375"
   }
 ]
