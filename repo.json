@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 10121,
+    "DownloadCount": 10123,
     "LastUpdate": "1787083573"
   },
   {
@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 17327,
+    "DownloadCount": 17372,
     "LastUpdate": "1790027039"
   },
   {
@@ -122,7 +122,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 38247,
+    "DownloadCount": 38254,
     "LastUpdate": "1789497525"
   },
   {
@@ -152,7 +152,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 10395,
+    "DownloadCount": 10405,
     "LastUpdate": "1790019214"
   },
   {
@@ -186,7 +186,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 345590,
+    "DownloadCount": 345605,
     "LastUpdate": "1789723744"
   },
   {
@@ -217,15 +217,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 720,
+    "DownloadCount": 726,
     "LastUpdate": "1790018835"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Sightseeing Log",
     "InternalName": "AutoSightseeingLog",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
     "Punchline": "Sightseeing vistas, logged for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
@@ -248,7 +248,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 4,
-    "LastUpdate": "1790025375"
+    "DownloadCount": 7,
+    "LastUpdate": "1790028552"
   }
 ]
