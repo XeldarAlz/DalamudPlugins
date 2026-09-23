@@ -54,7 +54,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.3: Fix the in-game suggestion highlight after a call. Once you called pon, chi, or kan, the highlight could jump to the wall along the top of the board or land on the wrong tile, because it located your hand by geometry and the shrunken hand let the perfectly-aligned wall slots win. It now anchors to the bottom-most row (your hand is always at the bottom) and ignores melded tiles, so the outline stays on the suggested discard. The hand reading and suggestion were always correct; only the on-tile outline was affected.",
-    "DownloadCount": 8648,
+    "DownloadCount": 8671,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 20800,
+    "DownloadCount": 20850,
     "LastUpdate": "1790112731"
   },
   {
@@ -122,7 +122,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 43625,
+    "DownloadCount": 43697,
     "LastUpdate": "1790109017"
   },
   {
@@ -153,7 +153,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 12626,
+    "DownloadCount": 12639,
     "LastUpdate": "1790109506"
   },
   {
@@ -187,7 +187,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 351623,
+    "DownloadCount": 352542,
     "LastUpdate": "1790188668"
   },
   {
@@ -218,15 +218,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1996,
+    "DownloadCount": 2004,
     "LastUpdate": "1790106644"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Sightseeing Log",
     "InternalName": "AutoSightseeingLog",
-    "AssemblyVersion": "1.5.0.0",
-    "TestingAssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.6.0.0",
+    "TestingAssemblyVersion": "1.6.0.0",
     "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
     "Punchline": "Sightseeing vistas, logged for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
@@ -249,7 +249,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 786,
-    "LastUpdate": "1790112697"
+    "DownloadCount": 799,
+    "LastUpdate": "1790195825"
   }
 ]
