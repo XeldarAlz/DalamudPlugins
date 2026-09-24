@@ -2,7 +2,7 @@
   <img src="Images/Icon.png" width="180" alt="XeldarAlz Dalamud Plugins icon" />
 </p>
 
-<h1 align="center">XeldarAlz Dalamud Plugins</h1>
+<h1 align="center">Grindless Dalamud Plugins</h1>
 
 <p align="center">
   <a href="https://discord.gg/hppkAvdBEE"><img alt="Discord" src="https://img.shields.io/badge/Discord-join-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>Custom Dalamud plugin repository by <a href="https://github.com/XeldarAlz">@XeldarAlz</a>.</em>
+  <em>Custom Dalamud plugin repository</a>.</em>
 </p>
 
 ---
