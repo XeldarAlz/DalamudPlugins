@@ -251,5 +251,36 @@
     "AcceptsFeedback": true,
     "DownloadCount": 991,
     "LastUpdate": "1790275051"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Auto Triple Triad Grind",
+    "InternalName": "AutoTripleTriadGrind",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "Collects every Triple Triad card NPCs can give you: pick the cards you are missing, and the plugin travels to each NPC, builds a deck for its rules, plays until your cards drop, registers them, and moves on.",
+    "Punchline": "Every NPC card, collected for you.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Triple Triad",
+      "Cards",
+      "Gold Saucer",
+      "MGP",
+      "Collection",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/master/AutoTripleTriadGrind/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1790275351"
   }
 ]
