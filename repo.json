@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 10983,
+    "DownloadCount": 10985,
     "LastUpdate": "1787083573"
   },
   {
@@ -129,8 +129,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto PVP Series Grind",
     "InternalName": "AutoPvpSeriesGrind",
-    "AssemblyVersion": "2.5.0.0",
-    "TestingAssemblyVersion": "2.5.0.0",
+    "AssemblyVersion": "2.6.0.0",
+    "TestingAssemblyVersion": "2.6.0.0",
     "Description": "Grinds PvP Series Malmstones for you: queues and plays Crystalline Conflict Casual Matches or the Frontline roulette in a loop until your goal is met.",
     "Punchline": "PvP Series, grinded for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
@@ -154,7 +154,7 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 12823,
-    "LastUpdate": "1790109506"
+    "LastUpdate": "1790275004"
   },
   {
     "Author": "XeldarAlz",
@@ -194,8 +194,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Hunt Grinder",
     "InternalName": "AutoHuntGrinder",
-    "AssemblyVersion": "1.5.0.0",
-    "TestingAssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.6.0.0",
+    "TestingAssemblyVersion": "1.6.0.0",
     "Description": "Clears your hunt bills for you: tick the daily and weekly bills you want, and the plugin picks them up at the hunt board, finds every mark, and fights it until each bill is done.",
     "Punchline": "Hunt bills, cleared for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
@@ -219,14 +219,14 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 2452,
-    "LastUpdate": "1790197643"
+    "LastUpdate": "1790275003"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Sightseeing Log",
     "InternalName": "AutoSightseeingLog",
-    "AssemblyVersion": "1.6.0.0",
-    "TestingAssemblyVersion": "1.6.0.0",
+    "AssemblyVersion": "1.7.0.0",
+    "TestingAssemblyVersion": "1.7.0.0",
     "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
     "Punchline": "Sightseeing vistas, logged for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
