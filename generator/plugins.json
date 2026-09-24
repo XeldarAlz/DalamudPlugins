@@ -47,6 +47,12 @@
       "repo": "FFXIV-AutoSightseeingLog",
       "branch": "master",
       "internalName": "AutoSightseeingLog"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoTripleTriadGrind",
+      "branch": "master",
+      "internalName": "AutoTripleTriadGrind"
     }
   ]
 }
