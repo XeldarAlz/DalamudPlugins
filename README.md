@@ -5,6 +5,7 @@
 <h1 align="center">XeldarAlz Dalamud Plugins</h1>
 
 <p align="center">
+  <a href="https://discord.gg/hppkAvdBEE"><img alt="Discord" src="https://img.shields.io/badge/Discord-join-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
   <img alt="Downloads" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXeldarAlz%2FDalamudPlugins%2Fmain%2Fdownloads.json&style=flat-square">
   <img alt="Plugins" src="https://img.shields.io/badge/plugins-7-blue?style=flat-square">
   <a href="https://github.com/XeldarAlz/DalamudPlugins/commits/main"><img alt="Last update" src="https://img.shields.io/github/last-commit/XeldarAlz/DalamudPlugins/main?style=flat-square&color=blue&label=last%20update"></a>
@@ -42,6 +43,12 @@ Tick **Enabled**, click **+**, then **Save and Close**. Open `/xlplugins` → **
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto PVP Series Grind** | PvP Series, grinded for you. | [FFXIV-AutoPVPSeriesGrind](https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoSightseeingLog/master/AutoSightseeingLog/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Auto Sightseeing Log** | Sightseeing vistas, logged for you. | [FFXIV-AutoSightseeingLog](https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog) |
 | <img src="https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png" width="28" valign="middle" alt="" /> &nbsp; **Aetherphone** | A smartphone, built for you. | [FFXIV-Aetherphone](https://github.com/XeldarAlz/FFXIV-Aetherphone) |
+
+## Community
+
+Questions, ideas, or just want to hang out with other players? Come say hi on Discord.
+
+→ [Join our Discord](https://discord.gg/hppkAvdBEE)
 
 ## License
 
