@@ -59,6 +59,12 @@
       "repo": "FFXIV-AutoTripleTriadGrind",
       "branch": "master",
       "internalName": "AutoTripleTriadGrind"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoHuntTrain",
+      "branch": "master",
+      "internalName": "AutoHuntTrain"
     }
   ]
 }
