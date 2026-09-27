@@ -223,6 +223,37 @@
   },
   {
     "Author": "XeldarAlz",
+    "Name": "Auto Hunt Train",
+    "InternalName": "AutoHuntTrain",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "Rides hunt trains for you: hears a train being called anywhere in your region, travels to the start aetheryte on that world, follows the conductor's flags from mark to mark, and lands a hit on every A rank before the crowd deletes it.",
+    "Punchline": "Hunt trains, ridden for you.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Hunt",
+      "Hunt Train",
+      "A Rank",
+      "Conductor",
+      "Data Center Travel",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntTrain/master/AutoHuntTrain/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1790548679"
+  },
+  {
+    "Author": "XeldarAlz",
     "Name": "Auto Sightseeing Log",
     "InternalName": "AutoSightseeingLog",
     "AssemblyVersion": "1.8.0.0",
@@ -282,5 +313,36 @@
     "AcceptsFeedback": true,
     "DownloadCount": 384,
     "LastUpdate": "1790281058"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Auto Hunt Train",
+    "InternalName": "AutoHuntTrain",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "Rides hunt trains for you: hears a train being called anywhere in your region, travels to the start aetheryte on that world, follows the conductor's flags from mark to mark, and lands a hit on every A rank before the crowd deletes it.",
+    "Punchline": "Hunt trains, ridden for you.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Hunt",
+      "Hunt Train",
+      "A Rank",
+      "Conductor",
+      "Data Center Travel",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntTrain/master/AutoHuntTrain/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1790548679"
   }
 ]
