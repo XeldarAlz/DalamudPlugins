@@ -44,6 +44,12 @@
     },
     {
       "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoHuntTrain",
+      "branch": "master",
+      "internalName": "AutoHuntTrain"
+    },
+    {
+      "owner": "XeldarAlz",
       "repo": "FFXIV-AutoSightseeingLog",
       "branch": "master",
       "internalName": "AutoSightseeingLog"
