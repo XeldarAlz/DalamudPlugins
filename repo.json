@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 14999,
+    "DownloadCount": 15000,
     "LastUpdate": "1790674037"
   },
   {
@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 26616,
+    "DownloadCount": 26617,
     "LastUpdate": "1790674062"
   },
   {
@@ -122,7 +122,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 58492,
+    "DownloadCount": 58493,
     "LastUpdate": "1790704519"
   },
   {
@@ -153,15 +153,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 16707,
+    "DownloadCount": 16708,
     "LastUpdate": "1790674040"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Aetherphone",
     "InternalName": "Aetherphone",
-    "AssemblyVersion": "1.1.0.1",
-    "TestingAssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.1.0.2",
+    "TestingAssemblyVersion": "1.1.0.2",
     "Description": "An in-game smartphone that puts everything you do into a single window: one device, endless things to do.",
     "Punchline": "A smartphone, built for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
@@ -187,8 +187,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 418153,
-    "LastUpdate": "1791145738"
+    "DownloadCount": 418494,
+    "LastUpdate": "1791146400"
   },
   {
     "Author": "XeldarAlz",
@@ -249,7 +249,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 590,
+    "DownloadCount": 591,
     "LastUpdate": "1790674044"
   },
   {
@@ -311,7 +311,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1548,
+    "DownloadCount": 1550,
     "LastUpdate": "1790674044"
   }
 ]
