@@ -92,7 +92,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 29388,
+    "DownloadCount": 29389,
     "LastUpdate": "1791839067"
   },
   {
@@ -194,8 +194,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Hunt Grinder",
     "InternalName": "AutoHuntGrinder",
-    "AssemblyVersion": "1.8.1.0",
-    "TestingAssemblyVersion": "1.8.1.0",
+    "AssemblyVersion": "1.9.0.0",
+    "TestingAssemblyVersion": "1.9.0.0",
     "Description": "Clears your hunt bills for you: tick the daily and weekly bills you want, and the plugin picks them up at the hunt board, finds every mark, and fights it until each bill is done.",
     "Punchline": "Hunt bills, cleared for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
@@ -219,7 +219,7 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 5402,
-    "LastUpdate": "1790674058"
+    "LastUpdate": "1791842427"
   },
   {
     "Author": "XeldarAlz",
