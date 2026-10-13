@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 15517,
+    "DownloadCount": 15518,
     "LastUpdate": "1790674037"
   },
   {
@@ -53,7 +53,7 @@
       "utility"
     ],
     "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png",
-    "DownloadCount": 10978,
+    "DownloadCount": 10986,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
@@ -86,7 +86,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 29549,
+    "DownloadCount": 29554,
     "LastUpdate": "1791839067"
   },
   {
@@ -116,7 +116,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 63450,
+    "DownloadCount": 63462,
     "LastUpdate": "1791861882"
   },
   {
@@ -147,7 +147,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 18223,
+    "DownloadCount": 18224,
     "LastUpdate": "1791671529"
   },
   {
@@ -181,7 +181,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 480383,
+    "DownloadCount": 480388,
     "LastUpdate": "1791454644"
   },
   {
@@ -212,7 +212,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 5478,
+    "DownloadCount": 5479,
     "LastUpdate": "1791842427"
   },
   {
@@ -305,7 +305,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 2102,
+    "DownloadCount": 2103,
     "LastUpdate": "1791860807"
   },
   {
@@ -344,8 +344,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Shopper",
     "InternalName": "AutoShopper",
-    "AssemblyVersion": "1.0.0.1",
-    "TestingAssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "Description": "Buys your market board shopping list for you: plans the cheapest route through Universalis prices across the worlds you allow, travels between them with Lifestream, walks to the market board, buys whole listings within your price caps, and confirms every purchase.",
     "Punchline": "Your market board shopping list, bought for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoShopper",
@@ -368,6 +368,6 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 4,
-    "LastUpdate": "1791898839"
+    "LastUpdate": "1791899709"
   }
 ]
