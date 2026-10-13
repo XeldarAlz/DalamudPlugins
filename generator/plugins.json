@@ -65,6 +65,12 @@
       "repo": "FFXIV-AutoTreasureMaps",
       "branch": "master",
       "internalName": "AutoTreasureMaps"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoShopper",
+      "branch": "master",
+      "internalName": "AutoShopper"
     }
   ]
 }
