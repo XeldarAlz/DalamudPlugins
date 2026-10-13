@@ -71,6 +71,12 @@
       "repo": "FFXIV-AutoShopper",
       "branch": "master",
       "internalName": "AutoShopper"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoGCSupply",
+      "branch": "master",
+      "internalName": "AutoGcSupply"
     }
   ]
 }
