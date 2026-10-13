@@ -53,7 +53,7 @@
       "utility"
     ],
     "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png",
-    "DownloadCount": 10820,
+    "DownloadCount": 10830,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
@@ -86,7 +86,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 29413,
+    "DownloadCount": 29421,
     "LastUpdate": "1791839067"
   },
   {
@@ -116,7 +116,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 63184,
+    "DownloadCount": 63196,
     "LastUpdate": "1791861882"
   },
   {
@@ -181,7 +181,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 480321,
+    "DownloadCount": 480324,
     "LastUpdate": "1791454644"
   },
   {
@@ -212,7 +212,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 5410,
+    "DownloadCount": 5412,
     "LastUpdate": "1791842427"
   },
   {
@@ -243,7 +243,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 915,
+    "DownloadCount": 916,
     "LastUpdate": "1790674044"
   },
   {
@@ -305,7 +305,39 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 2044,
+    "DownloadCount": 2049,
     "LastUpdate": "1791860807"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Auto Treasure Maps",
+    "InternalName": "AutoTreasureMaps",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "Works through your timeworn maps for you: deciphers each map in your bags, travels to the dig spot, digs up the coffer, fights off its guards and opens it, then moves on to the next map. When your bags run dry it can gather the daily timeworn map as a Miner or Botanist and buy more on the market board under your price caps and gil budget.",
+    "Punchline": "Treasure maps, dug up for you.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Treasure Hunt",
+      "Timeworn Maps",
+      "Treasure Coffer",
+      "Gil",
+      "Market Board",
+      "Gathering",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoTreasureMaps/master/AutoTreasureMaps/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1791869946"
   }
 ]
