@@ -181,7 +181,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 480324,
+    "DownloadCount": 480326,
     "LastUpdate": "1791454644"
   },
   {
@@ -339,5 +339,35 @@
     "AcceptsFeedback": true,
     "DownloadCount": 1,
     "LastUpdate": "1791869946"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Auto Shopper",
+    "InternalName": "AutoShopper",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "Buys your market board shopping list for you: plans the cheapest route through Universalis prices across the worlds you allow, travels between them with Lifestream, walks to the market board, buys whole listings within your price caps, and confirms every purchase.",
+    "Punchline": "Your market board shopping list, bought for you.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoShopper",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Market Board",
+      "Shopping",
+      "Universalis",
+      "Data Center Travel",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoShopper/master/AutoShopper/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoShopper/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoShopper/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoShopper/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1791872514"
   }
 ]
