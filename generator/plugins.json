@@ -77,6 +77,12 @@
       "repo": "FFXIV-AutoGCSupply",
       "branch": "master",
       "internalName": "AutoGcSupply"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoHouseLottery",
+      "branch": "master",
+      "internalName": "AutoHouseLottery"
     }
   ]
 }
