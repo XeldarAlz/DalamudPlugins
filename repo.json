@@ -401,5 +401,36 @@
     "AcceptsFeedback": true,
     "DownloadCount": 102,
     "LastUpdate": "1791926276"
+  },
+  {
+    "Author": "XeldarAlz",
+    "Name": "Auto House Lottery",
+    "InternalName": "AutoHouseLottery",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "Shows empty housing plots on a map from public listings, enters the lottery on the plot you pick or the best match on your shortlist, then checks the result and collects your refund or claims your house.",
+    "Punchline": "Find an empty plot, enter its housing lottery, collect your refund or claim your house.",
+    "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Housing",
+      "Lottery",
+      "Plot",
+      "Estate",
+      "Free Company",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHouseLottery/master/AutoHouseLottery/Images/Icon.png",
+    "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery/releases/latest/download/latest.zip",
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1792001784"
   }
 ]
