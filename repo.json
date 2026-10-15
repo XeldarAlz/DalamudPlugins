@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 15607,
+    "DownloadCount": 15616,
     "LastUpdate": "1790674037"
   },
   {
@@ -53,7 +53,7 @@
       "utility"
     ],
     "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png",
-    "DownloadCount": 12872,
+    "DownloadCount": 12933,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
@@ -86,7 +86,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 31641,
+    "DownloadCount": 31712,
     "LastUpdate": "1791839067"
   },
   {
@@ -116,7 +116,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 66986,
+    "DownloadCount": 67110,
     "LastUpdate": "1791861882"
   },
   {
@@ -147,7 +147,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 18565,
+    "DownloadCount": 18584,
     "LastUpdate": "1791671529"
   },
   {
@@ -181,7 +181,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 483133,
+    "DownloadCount": 483260,
     "LastUpdate": "1791454644"
   },
   {
@@ -212,7 +212,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 6540,
+    "DownloadCount": 6570,
     "LastUpdate": "1791842427"
   },
   {
@@ -243,7 +243,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1408,
+    "DownloadCount": 1426,
     "LastUpdate": "1791871112"
   },
   {
@@ -274,7 +274,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 2783,
+    "DownloadCount": 2793,
     "LastUpdate": "1790674054"
   },
   {
@@ -305,7 +305,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 3047,
+    "DownloadCount": 3082,
     "LastUpdate": "1791860807"
   },
   {
@@ -337,15 +337,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 143,
+    "DownloadCount": 152,
     "LastUpdate": "1791869946"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Shopper",
     "InternalName": "AutoShopper",
-    "AssemblyVersion": "1.2.0.0",
-    "TestingAssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.3.0.0",
+    "TestingAssemblyVersion": "1.3.0.0",
     "Description": "Buys your market board shopping list for you: plans the cheapest route through Universalis prices across the worlds you allow, travels between them with Lifestream, walks to the market board, buys whole listings within your price caps, and confirms every purchase.",
     "Punchline": "Your market board shopping list, bought for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoShopper",
@@ -367,7 +367,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoShopper/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 269,
+    "DownloadCount": 290,
     "LastUpdate": "1791999987"
   },
   {
@@ -399,7 +399,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 136,
+    "DownloadCount": 142,
     "LastUpdate": "1791926276"
   },
   {
@@ -430,7 +430,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 43,
+    "DownloadCount": 54,
     "LastUpdate": "1792003237"
   }
 ]
