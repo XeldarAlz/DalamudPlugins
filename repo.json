@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 15667,
+    "DownloadCount": 15668,
     "LastUpdate": "1790674037"
   },
   {
@@ -53,7 +53,7 @@
       "utility"
     ],
     "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png",
-    "DownloadCount": 13146,
+    "DownloadCount": 13158,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
@@ -86,7 +86,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 31979,
+    "DownloadCount": 31992,
     "LastUpdate": "1791839067"
   },
   {
@@ -116,7 +116,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 67563,
+    "DownloadCount": 67591,
     "LastUpdate": "1791861882"
   },
   {
@@ -147,7 +147,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 18676,
+    "DownloadCount": 18691,
     "LastUpdate": "1791671529"
   },
   {
@@ -181,7 +181,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 489807,
+    "DownloadCount": 490070,
     "LastUpdate": "1792081298"
   },
   {
@@ -212,7 +212,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 6680,
+    "DownloadCount": 6699,
     "LastUpdate": "1791842427"
   },
   {
@@ -243,7 +243,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1490,
+    "DownloadCount": 1503,
     "LastUpdate": "1791871112"
   },
   {
@@ -274,7 +274,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 2820,
+    "DownloadCount": 2830,
     "LastUpdate": "1790674054"
   },
   {
@@ -305,7 +305,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 3185,
+    "DownloadCount": 3200,
     "LastUpdate": "1791860807"
   },
   {
@@ -337,7 +337,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 197,
+    "DownloadCount": 210,
     "LastUpdate": "1791869946"
   },
   {
@@ -367,15 +367,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoShopper/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 454,
+    "DownloadCount": 471,
     "LastUpdate": "1792069711"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto GC Supply",
     "InternalName": "AutoGcSupply",
-    "AssemblyVersion": "1.0.0.3",
-    "TestingAssemblyVersion": "1.0.0.3",
+    "AssemblyVersion": "1.0.0.4",
+    "TestingAssemblyVersion": "1.0.0.4",
     "Description": "Reads the day's Grand Company supply and provisioning requests, buys what is missing through Auto Shopper, then travels to your Personnel Officer and hands in the ones you chose, confirming every delivery.",
     "Punchline": "Grand Company supply and provisioning, delivered for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply",
@@ -399,8 +399,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 188,
-    "LastUpdate": "1791926276"
+    "DownloadCount": 192,
+    "LastUpdate": "1792154519"
   },
   {
     "Author": "XeldarAlz",
@@ -430,7 +430,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 101,
+    "DownloadCount": 114,
     "LastUpdate": "1792003237"
   }
 ]
