@@ -83,6 +83,12 @@
       "repo": "FFXIV-AutoHouseLottery",
       "branch": "master",
       "internalName": "AutoHouseLottery"
+    },
+    {
+      "owner": "XeldarAlz",
+      "repo": "FFXIV-AutoSeller",
+      "branch": "master",
+      "internalName": "AutoSeller"
     }
   ]
 }
