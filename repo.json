@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 15925,
+    "DownloadCount": 16071,
     "LastUpdate": "1792255625"
   },
   {
@@ -53,7 +53,7 @@
       "utility"
     ],
     "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png",
-    "DownloadCount": 13395,
+    "DownloadCount": 13411,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
@@ -86,7 +86,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 32267,
+    "DownloadCount": 32287,
     "LastUpdate": "1791839067"
   },
   {
@@ -116,16 +116,16 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 68466,
+    "DownloadCount": 68865,
     "LastUpdate": "1792255583"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto PVP Series Grind",
     "InternalName": "AutoPvpSeriesGrind",
-    "AssemblyVersion": "2.10.0.0",
-    "TestingAssemblyVersion": "2.10.0.0",
-    "Description": "Grinds PvP Series Malmstones for you: queues and plays Crystalline Conflict Casual Matches or the Frontline roulette in a loop until your goal is met.",
+    "AssemblyVersion": "2.11.0.0",
+    "TestingAssemblyVersion": "2.11.0.0",
+    "Description": "Grinds PvP Series Malmstones in Crystalline Conflict Casual or Ranked Matches, or Frontline, with preview infantry support for Rival Wings (Hidden Gorge). Queues and plays until your goal is met.",
     "Punchline": "PvP Series, grinded for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
     "ApplicableVersion": "any",
@@ -134,7 +134,9 @@
       "Crystalline Conflict",
       "Series Malmstones",
       "Casual Match",
+      "Ranked Match",
       "Frontline",
+      "Rival Wings",
       "Automation"
     ],
     "CategoryTags": [
@@ -147,8 +149,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 18933,
-    "LastUpdate": "1792255589"
+    "DownloadCount": 19045,
+    "LastUpdate": "1792267212"
   },
   {
     "Author": "XeldarAlz",
@@ -181,7 +183,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 498412,
+    "DownloadCount": 498714,
     "LastUpdate": "1792169942"
   },
   {
@@ -212,7 +214,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 7013,
+    "DownloadCount": 7148,
     "LastUpdate": "1792255594"
   },
   {
@@ -243,7 +245,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1649,
+    "DownloadCount": 1707,
     "LastUpdate": "1792255596"
   },
   {
@@ -274,7 +276,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 3016,
+    "DownloadCount": 3126,
     "LastUpdate": "1792255586"
   },
   {
@@ -305,7 +307,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 3322,
+    "DownloadCount": 3332,
     "LastUpdate": "1791860807"
   },
   {
@@ -337,7 +339,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 266,
+    "DownloadCount": 272,
     "LastUpdate": "1791869946"
   },
   {
@@ -367,7 +369,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoShopper/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 563,
+    "DownloadCount": 569,
     "LastUpdate": "1792069711"
   },
   {
@@ -399,7 +401,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 347,
+    "DownloadCount": 353,
     "LastUpdate": "1792154519"
   },
   {
@@ -430,7 +432,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 164,
+    "DownloadCount": 171,
     "LastUpdate": "1792003237"
   },
   {
@@ -461,7 +463,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSeller/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 117,
+    "DownloadCount": 127,
     "LastUpdate": "1792168331"
   }
 ]
